@@ -1,0 +1,19 @@
+					= APlikasi Pendaftaran Mahasiswa Baru =
+
+
+
+User = demo6@gmail.com [ role = User / 1 ] [ Password = rafly123 ]
+Admin = campusaireg@gmail.com [ role = Admin/ 669 ] [ Password = ggwpbro ]
+
+						= Sign Up =
+1. Pilih Sign Up
+2. Isi Form Pendaftaran
+3. Setalah Selesai Pendaftaran, Silahkan Cek Email Untuk Verifikasi Akun
+Note: Untuk membuka link verifikasi akun harus di pc yang php artisan servenya menyala.
+
+sql = folder sql_db
+
+
+
+
+ 
